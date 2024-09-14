@@ -57,9 +57,9 @@
         <col style="width: 33.33%;">
     </colgroup>
     <tr>
-        <td><p align="center"><img src="docs/coralDecayStatic.png">静态展示</p></td>
-        <td><p align="center"><img src="docs/coralDecayLive.gif">森林之息</p></td>
-        <td><p align="center"><img src="docs/coralDecayInteractive.gif">点击+滚轮交互</p></td>
+        <td><p align="center"><img src="docs/breathingForestStatic.png">静态展示</p></td>
+        <td><p align="center"><img src="docs/breathingForestLive.gif">森林之息</p></td>
+        <td><p align="center"><img src="docs/breathingForestInteractive.gif">点击+滚轮交互</p></td>
     </tr>
     <tr>
         <td><p align="center"><img src="docs/lifeOfTreeStatic.png">静态展示</p></td>
