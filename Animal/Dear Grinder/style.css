@@ -1,0 +1,36 @@
+body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.canvas_center {
+    height: 70%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    margin: auto;
+}
+
+.text_center {
+    height: 30%;
+    width: 100%;
+    position: fixed;
+    top: 83%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    margin: auto;
+    font-size: 23px;
+    font-family: '微软雅黑';
+    color: grey;
+}
+
+.text_center p {
+    font-size: 19px;
+}
